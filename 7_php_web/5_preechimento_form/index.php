@@ -1,6 +1,6 @@
 <?php
 
-    //PREECHEMENTO DE FORMULARIO:
+    //PREENCHIMENTO DE FORMULARIO:
     $usuario = [
         'nome' => 'Flávia',
         'idade' => 20,
